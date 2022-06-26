@@ -10,13 +10,13 @@
 8. [MINA](https://minaexplorer.com/wallet/B62qq6ceNHCu9mSBvczmHS5JzHC4zw5U9KLALuwZPemeksx82AEfQSr) commission 5%
 9. [Forta](https://explorer.forta.network/network) 
 Polygon - node scanner 0xCA8651FA6B86F5C85A42d9c31496AD478E0b3C24
-ETH	- node scanner 0x8018d99e543e33dC5c068B38430CF4e3031d3473
-ETH	- node scanner 0x76A033C18904AA9169684d926FC34c983779409A
-ETH	- node scanner 0x81D01F1F38A34D630b2B57d27ce6671e666C9a0A			
-AVAX	- node scanner 0xC7c1e4447C998dAb68dd2B990D3565588269cab1
+ETH	- node scanner 0x8018d99e543e33dC5c068B38430CF4e3031d3473  
+ETH	- node scanner 0x76A033C18904AA9169684d926FC34c983779409A  
+ETH	- node scanner 0x81D01F1F38A34D630b2B57d27ce6671e666C9a0A  			
+AVAX	- node scanner 0xC7c1e4447C998dAb68dd2B990D3565588269cab1  
 
 
 
 
-Discord  - goto5k#3707
+Discord  - goto5k#3707  
 Telegram - https://t.me/jdtamp
