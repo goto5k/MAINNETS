@@ -9,7 +9,7 @@
 7. [Cyber.ai Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper10trdf5eyfcmc9graltx4hmpgznhrm7hd6adf6s) commission 10%, APR ~82.12%
 8. [MINA](https://minaexplorer.com/wallet/B62qq6ceNHCu9mSBvczmHS5JzHC4zw5U9KLALuwZPemeksx82AEfQSr) commission 5%
 9. [Forta](https://explorer.forta.network/network) 
-Polygon - node scanner 0xCA8651FA6B86F5C85A42d9c31496AD478E0b3C24
+Polygon - node scanner 0xCA8651FA6B86F5C85A42d9c31496AD478E0b3C24  
 ETH	- node scanner 0x8018d99e543e33dC5c068B38430CF4e3031d3473  
 ETH	- node scanner 0x76A033C18904AA9169684d926FC34c983779409A  
 ETH	- node scanner 0x81D01F1F38A34D630b2B57d27ce6671e666C9a0A  			
