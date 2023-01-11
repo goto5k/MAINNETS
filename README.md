@@ -9,7 +9,7 @@
 7. [Cyber.ai Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper10trdf5eyfcmc9graltx4hmpgznhrm7hd6adf6s) commission 10%, APR ~82.12%
 8. [MINA](https://minaexplorer.com/wallet/B62qq6ceNHCu9mSBvczmHS5JzHC4zw5U9KLALuwZPemeksx82AEfQSr) commission 5%
 9. [Forta](https://explorer.forta.network/network) 
-10. [Quicksilver] (https://quicksilver.explorers.guru/validator/quickvaloper1jppp62lv3mz7fgfvdwsllu6act3mdgdsrm07n6)
+10. [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1jppp62lv3mz7fgfvdwsllu6act3mdgdsrm07n6)
  
 
 
